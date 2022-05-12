@@ -1,12 +1,30 @@
-### Oi meu nome é Raphael!
+# Oi meu nome é Raphael!
 
+<div>
+  <p>Sou formado em Design Gráfico pela UNIP em 2015, atuo no meio digital desde 2014. Neste tempo tive oportunidade de adquirir conhecimentos na área de E-learning, produção de conteúdos digitais para Educação Corporativa.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <ul>
+    <li>
+        Atualmente trabalho como desenvolvedor Front-end Junior na UOL Edtech. 
+    </li>
+    <li>
+        Estou cursando Análise e Desenvolvimento de Sistemas pela FMU desde 2020
+    </li>
+  <ul>
+</div>
 
+### Contato:
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-westin-6b79aa79/)
+
+### Status:
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaWestin&show_icons=true&theme=dracula)
+
+## Tecnologias que utilizo no meu trabalho:
+
+<div style="display: inline-block;"><br/>
+    <img style="align: center;" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img style="align: center;" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img style="align: center;" alt="CSS3" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img style="align: center;" alt="CSS3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
