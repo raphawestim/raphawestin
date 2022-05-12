@@ -19,7 +19,9 @@
 
 ### Contato:
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-westin-6b79aa79/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-westin-6b79aa79/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphawestim45@gmail.com)
+
 
 ### Status:
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaWestin&show_icons=true&theme=dracula)
@@ -34,4 +36,21 @@
     <img style="align: center;" alt="CSS3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img style="align: center;" alt="CSS3" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
+<br/>
+
+<div style="">
+<br/>
+<h3>Caso queira me encontrar em alguma plataforma</h3>
+<br/>
+
+[![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
+
+</div>
+
+
 
