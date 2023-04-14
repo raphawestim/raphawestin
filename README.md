@@ -1,18 +1,9 @@
 # Oi meu nome é Raphael!
 
 <div>
-  <p>Sou formado em Design Gráfico pela UNIP em 2015, atuo no meio digital desde 2014. Neste tempo tive oportunidade de adquirir conhecimentos na área de E-learning, produção de conteúdos digitais para Educação Corporativa.</p>
+  <p>Sou formado em Design Gráfico pela UNIP em 2015 e formado pela FMU em Analise e desenvolvimento de sistemas no ano de 2022, atuo no meio digital desde 2014. Neste tempo tive oportunidade de adquirir conhecimentos na área de E-learning, produção de conteúdos digitais para Educação Corporativa.</p>
 
   <p>Sou apaixonado por tecnologia desde pequeno e também Educação gosto muito do que eu faço!</p>
-
-  <ul>
-    <li>
-        Atualmente trabalho como desenvolvedor Front-end Junior na UOL Edtech. 
-    </li>
-    <li>
-        Estou cursando Análise e Desenvolvimento de Sistemas pela FMU desde 2020
-    </li>
-  <ul>
 </div>
 
 <strong>Neste momento estou cursando Análise e Desenvolvimento de Sistemas pela FMU desde 2020</strong>
@@ -24,8 +15,8 @@
 
 
 ### Status:
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaWestin&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaWestin)](https://github.com/anuraghazra/github-readme-stats)
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaWestim&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaWestim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu trabalho:
 
