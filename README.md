@@ -6,7 +6,7 @@
   <p>Sou apaixonado por tecnologia desde pequeno e também Educação gosto muito do que eu faço!</p>
 </div>
 
-<strong>Neste momento estou cursando Análise e Desenvolvimento de Sistemas pela FMU desde 2020</strong>
+<strong>Estou fazendo pós em Desenvolvimento Full-Stack na PUCRS</strong>
 
 ### Contato:
 
@@ -15,8 +15,8 @@
 
 
 ### Status:
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaWestim&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaWestim)](https://github.com/anuraghazra/github-readme-stats)
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphawestim&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphawestim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu trabalho:
 
